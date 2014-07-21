@@ -1,5 +1,5 @@
 shmu-games
 ==========
 
-games written in Java
-2 versions of tetris, neither is complete
+games written in Java;
+  includes 2 versions of tetris, both in progress
